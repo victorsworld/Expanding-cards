@@ -1,1 +1,1 @@
-# Expanding-cards is a example of transition cards with a total of languages HTML.index, Style.css, and Java.sc
+# Expanding-cards is a example of transitioning cards with a total of languages HTML.index, Style.css, and Java.sc
